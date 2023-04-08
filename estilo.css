@@ -57,7 +57,8 @@ html {
 }
 
 #inicio .contenido header .contenido-header nav ul a:hover {
-    color: #850202;
+    color: #bc0b0b;
+    
 }
 
 #inicio .contenido header .contenido-header .redes a {
@@ -72,13 +73,15 @@ html {
 
 
 #inicio .contenido header .contenido-header .redes a:hover {
-    color: #850202;
+    color: #bc0b0b;
+    
 }
 
 
 
 #inicio .contenido header .contenido-header .seleccionado{
-    color: #850202;
+    color: #bc0b0b;
+     
 }
 
 #inicio .contenido .presentacion {
@@ -109,7 +112,7 @@ html {
 
 #inicio .contenido .presentacion h2 span {
     font-size: 50px;
-    color: #850202;
+    color: #bc0b0b;
 
 }
 
@@ -135,7 +138,8 @@ html {
 }
 
 #inicio .contenido .presentacion a:hover {
-    background-color: #850202;
+    
+    background-color: #bc0b0b ;
 }
 
 #icono-nav {
